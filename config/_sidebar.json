@@ -1,17 +1,28 @@
 [
   {
-    "name": "Introduction",
+    "name": "References",
     "id": 0,
     "items": [
       {
-        "name": "Overview",
+        "name": "README",
         "id": 1,
         "href": "/"
       },
       {
-        "name": "Sample Page One",
+        "name": "Advanced Usage",
         "id": 2,
-        "href": "/sample-01"
+        "href": "/advanced"
+      }
+    ]
+  },
+  {
+    "name": "Guides",
+    "id": 1,
+    "items": [
+      {
+        "name": "Contributing Guide",
+        "id": 1,
+        "href": "/contributing"
       }
     ]
   }
