@@ -3,12 +3,6 @@ title: "Customization"
 slug: "/customization"
 ---
 
-# Customization
-
-- [Custom Styles and Layout](#custom-styles-and-layout)
-- [Component Views and HTML](#component-views-and-html)
-- [Component Behavior](#component-behavior)
-
 ## Custom Styles and Layout
 
 Styling is up to you.

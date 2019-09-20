@@ -3,8 +3,6 @@ title: "Advanced Configuration"
 slug: "/advanced-configuration"
 ---
 
-# Advanced Configuration
-
 All configuration for Search UI is provided in a single configuration object.
 
 ```jsx

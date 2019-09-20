@@ -3,8 +3,6 @@ title: "Component Reference"
 slug: "/component-reference"
 ---
 
-# Component Reference
-
 Note that all components in this library are Pure Components. Read more
 about that [here](#performance).
 

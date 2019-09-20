@@ -3,12 +3,6 @@ title: "Headless Core"
 slug: "/headless-core"
 ---
 
-# Headless Core
-
-- [Headless Core Concepts](#headless-core-concepts)
-- [Working with the Headless Core](#working-with-the-headless-core)
-- [Headless Core Reference](#headless-core-reference)
-
 ## Headless Core Concepts
 
 ```
