@@ -18,7 +18,7 @@ Use it with [**Elastic App Search**](https://www.elastic.co/cloud/app-search-ser
 [**Elastic Site Search**](https://www.elastic.co/cloud/site-search-service?ultron=searchui-repo&blade=readme&hulk=product) to have a
 search experience up and running in minutes.
 
-<img src="https://raw.githubusercontent.com/elastic/search-ui/master/packages/react-search-ui/resources/screenshot.png" width="600">
+<img src="https://raw.githubusercontent.com/elastic/search-ui/master/packages/react-search-ui/resources/screenshot.png" />
 
 ### Features 👍
 
