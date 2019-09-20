@@ -6,12 +6,12 @@
       {
         "name": "About Search UI 🚀",
         "id": 1,
-        "href": "/"
+        "href": "/overview/about"
       },
       {
         "name": "Readme",
         "id": 2,
-        "href": "/about"
+        "href": "/"
       },
       {
         "name": "Advanced Usage",
