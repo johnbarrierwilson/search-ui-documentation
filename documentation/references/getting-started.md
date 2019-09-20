@@ -1,19 +1,9 @@
 ---
-title: "Search UI Overview"
+title: "Getting started 🐣"
 slug: "/getting-started"
 ---
 
-## Contents
-
-- [Getting started](#getting-started-)
-- [Creating a search experience](#creating-a-search-experience)
-- [FAQ](#faq-)
-- [Contribute](#contribute-)
-- [License](#license-)
-
----
-
-## Getting started 🐣
+## Install
 
 Install **React Search UI** and the **App Search** connector.
 
