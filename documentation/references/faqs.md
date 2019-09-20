@@ -1,9 +1,7 @@
 ---
-title: "Frequently Asked Questions"
+title: "Frequently Asked Questions 🔮"
 slug: "/faqs"
 ---
-
-## FAQ 🔮
 
 ### Where can I learn more?
 
