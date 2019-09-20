@@ -1,6 +1,6 @@
 ---
-title: "Build Your Own Component"
-slug: "/build-your-own-component"
+title: "Build Your Own Components"
+slug: "/build-your-own-components"
 ---
 
 **Learn about the [Headless Core](#headless-core) concepts first!**
