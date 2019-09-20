@@ -1,6 +1,6 @@
 ---
 title: "Search UI Overview"
-slug: "/"
+slug: "/getting-started"
 ---
 
 <p>

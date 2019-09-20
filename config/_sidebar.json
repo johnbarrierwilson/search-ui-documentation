@@ -1,32 +1,38 @@
 [
   {
-    "name": "References",
+    "name": "Overview",
     "id": 0,
     "items": [
       {
         "name": "About Search UI 🚀",
         "id": 1,
-        "href": "/overview/about"
-      },
-      {
-        "name": "Readme",
-        "id": 2,
         "href": "/"
+      }
+    ]
+  },
+  {
+    "name": "References",
+    "id": 1,
+    "items": [
+      {
+        "name": "Getting Started",
+        "id": 0,
+        "href": "/references/getting-started"
       },
       {
         "name": "Advanced Usage",
-        "id": 3,
+        "id": 1,
         "href": "/advanced"
       }
     ]
   },
   {
     "name": "Guides",
-    "id": 1,
+    "id": 2,
     "items": [
       {
         "name": "Contributing Guide",
-        "id": 1,
+        "id": 10,
         "href": "/contributing"
       }
     ]

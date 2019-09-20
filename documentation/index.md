@@ -1,6 +1,6 @@
 ---
 title: "About Search UI 🚀"
-slug: "/about"
+slug: "/"
 ---
 
 A **[React](https://reactjs.org)** library that allows you to quickly implement search experiences without re-inventing the wheel.
