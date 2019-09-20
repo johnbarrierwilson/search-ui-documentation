@@ -3,17 +3,6 @@ title: "Search UI Overview"
 slug: "/getting-started"
 ---
 
-<p>
-  <a href="https://circleci.com/gh/elastic/search-ui/tree/master">
-    <img src="https://circleci.com/gh/elastic/search-ui/tree/master.svg?style=svg&circle-token=c637bc2af60035a1f4cb5367071999ced238be76" alt="CircleCI buidl">
-  </a>
-  <a href="https://gitter.im/elastic-search-ui/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge">
-    <img src="https://badges.gitter.im/elastic-search-ui/community.svg" alt="Gitter" />
-  </a>
-</p>
-
-> Libraries for the fast development of modern, engaging search experiences. 🎉
-
 ## Contents
 
 - [Getting started](#getting-started-)
