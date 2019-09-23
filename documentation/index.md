@@ -3,7 +3,7 @@ title: "About Search UI 🚀"
 slug: "/"
 ---
 
-*This documentation is for the older version: 0.9.0 beta.*
+*This documentation is for the older version: 0.8.0 beta.*
 
 <p>
   <a href="https://circleci.com/gh/elastic/search-ui/tree/master">
